@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="BasicIDE" oor:package="org.openoffice.Office">
+  <node oor:name="IDEColorSchemes">
+    <node oor:name="Ayu Light" oor:op="replace">
+      <node oor:name="GenericColor">
+        <prop oor:name="Color">
+          <value>5923431</value>
+        </prop>
+      </node>
+      <node oor:name="IdentifierColor">
+        <prop oor:name="Color">
+          <value>5923431</value>
+        </prop>
+      </node>
+      <node oor:name="NumberColor">
+        <prop oor:name="Color">
+          <value>16750912</value>
+        </prop>
+      </node>
+      <node oor:name="StringColor">
+        <prop oor:name="Color">
+          <value>9024256</value>
+        </prop>
+      </node>
+      <node oor:name="CommentColor">
+        <prop oor:name="Color">
+          <value>7436928</value>
+        </prop>
+      </node>
+      <node oor:name="ErrorColor">
+        <prop oor:name="Color">
+          <value>16062488</value>
+        </prop>
+      </node>
+      <node oor:name="OperatorColor">
+        <prop oor:name="Color">
+          <value>16750912</value>
+        </prop>
+      </node>
+      <node oor:name="KeywordColor">
+        <prop oor:name="Color">
+          <value>4234982</value>
+        </prop>
+      </node>
+      <node oor:name="BackgroundColor">
+        <prop oor:name="Color">
+          <value>16448250</value>
+        </prop>
+      </node>
+      <node oor:name="LineHighlightColor">
+        <prop oor:name="Color">
+          <value>15724786</value>
+        </prop>
+      </node>
+    </node>
+    <node oor:name="Ayu Dark" oor:op="replace">
+      <node oor:name="GenericColor">
+        <prop oor:name="Color">
+          <value>11776429</value>
+        </prop>
+      </node>
+      <node oor:name="IdentifierColor">
+        <prop oor:name="Color">
+          <value>11776429</value>
+        </prop>
+      </node>
+      <node oor:name="NumberColor">
+        <prop oor:name="Color">
+          <value>11109951</value>
+        </prop>
+      </node>
+      <node oor:name="StringColor">
+        <prop oor:name="Color">
+          <value>12376139</value>
+        </prop>
+      </node>
+      <node oor:name="CommentColor">
+        <prop oor:name="Color">
+          <value>6318707</value>
+        </prop>
+      </node>
+      <node oor:name="ErrorColor">
+        <prop oor:name="Color">
+          <value>15019309</value>
+        </prop>
+      </node>
+      <node oor:name="OperatorColor">
+        <prop oor:name="Color">
+          <value>15898216</value>
+        </prop>
+      </node>
+      <node oor:name="KeywordColor">
+        <prop oor:name="Color">
+          <value>16748351</value>
+        </prop>
+      </node>
+      <node oor:name="BackgroundColor">
+        <prop oor:name="Color">
+          <value>658964</value>
+        </prop>
+      </node>
+      <node oor:name="LineHighlightColor">
+        <prop oor:name="Color">
+          <value>266</value>
+        </prop>
+      </node>
+    </node>
+    <node oor:name="Atom One Light" oor:op="replace">
+      <node oor:name="GenericColor">
+        <prop oor:name="Color">
+          <value>3685195</value>
+        </prop>
+      </node>
+      <node oor:name="IdentifierColor">
+        <prop oor:name="Color">
+          <value>3685195</value>
+        </prop>
+      </node>
+      <node oor:name="NumberColor">
+        <prop oor:name="Color">
+          <value>9988097</value>
+        </prop>
+      </node>
+      <node oor:name="StringColor">
+        <prop oor:name="Color">
+          <value>5546319</value>
+        </prop>
+      </node>
+      <node oor:name="CommentColor">
+        <prop oor:name="Color">
+          <value>10527663</value>
+        </prop>
+      </node>
+      <node oor:name="ErrorColor">
+        <prop oor:name="Color">
+          <value>16009304</value>
+        </prop>
+      </node>
+      <node oor:name="OperatorColor">
+        <prop oor:name="Color">
+          <value>10888868</value>
+        </prop>
+      </node>
+      <node oor:name="KeywordColor">
+        <prop oor:name="Color">
+          <value>10888868</value>
+        </prop>
+      </node>
+      <node oor:name="BackgroundColor">
+        <prop oor:name="Color">
+          <value>16448250</value>
+        </prop>
+      </node>
+      <node oor:name="LineHighlightColor">
+        <prop oor:name="Color">
+          <value>15856113</value>
+        </prop>
+      </node>
+    </node>
+    <node oor:name="Atom One Dark" oor:op="replace">
+      <node oor:name="GenericColor">
+        <prop oor:name="Color">
+          <value>11186615</value>
+        </prop>
+      </node>
+      <node oor:name="IdentifierColor">
+        <prop oor:name="Color">
+          <value>11186615</value>
+        </prop>
+      </node>
+      <node oor:name="NumberColor">
+        <prop oor:name="Color">
+          <value>13277798</value>
+        </prop>
+      </node>
+      <node oor:name="StringColor">
+        <prop oor:name="Color">
+          <value>10010469</value>
+        </prop>
+      </node>
+      <node oor:name="CommentColor">
+        <prop oor:name="Color">
+          <value>5987939</value>
+        </prop>
+      </node>
+      <node oor:name="ErrorColor">
+        <prop oor:name="Color">
+          <value>16009031</value>
+        </prop>
+      </node>
+      <node oor:name="OperatorColor">
+        <prop oor:name="Color">
+          <value>13007069</value>
+        </prop>
+      </node>
+      <node oor:name="KeywordColor">
+        <prop oor:name="Color">
+          <value>12481753</value>
+        </prop>
+      </node>
+      <node oor:name="BackgroundColor">
+        <prop oor:name="Color">
+          <value>2632756</value>
+        </prop>
+      </node>
+      <node oor:name="LineHighlightColor">
+        <prop oor:name="Color">
+          <value>2896188</value>
+        </prop>
+      </node>
+    </node>
+    <node oor:name="Monokai" oor:op="replace">
+      <node oor:name="GenericColor">
+        <prop oor:name="Color">
+          <value>15857650</value>
+        </prop>
+      </node>
+      <node oor:name="IdentifierColor">
+        <prop oor:name="Color">
+          <value>15857650</value>
+        </prop>
+      </node>
+      <node oor:name="NumberColor">
+        <prop oor:name="Color">
+          <value>11436543</value>
+        </prop>
+      </node>
+      <node oor:name="StringColor">
+        <prop oor:name="Color">
+          <value>15061078</value>
+        </prop>
+      </node>
+      <node oor:name="CommentColor">
+        <prop oor:name="Color">
+          <value>7695688</value>
+        </prop>
+      </node>
+      <node oor:name="ErrorColor">
+        <prop oor:name="Color">
+          <value>16733525</value>
+        </prop>
+      </node>
+      <node oor:name="OperatorColor">
+        <prop oor:name="Color">
+          <value>15857650</value>
+        </prop>
+      </node>
+      <node oor:name="KeywordColor">
+        <prop oor:name="Color">
+          <value>10888817</value>
+        </prop>
+      </node>
+      <node oor:name="BackgroundColor">
+        <prop oor:name="Color">
+          <value>2896188</value>
+        </prop>
+      </node>
+      <node oor:name="LineHighlightColor">
+        <prop oor:name="Color">
+          <value>4078898</value>
+        </prop>
+      </node>
+    </node>
+    <node oor:name="Nord" oor:op="replace">
+      <node oor:name="GenericColor">
+        <prop oor:name="Color">
+          <value>14212841</value>
+        </prop>
+      </node>
+      <node oor:name="IdentifierColor">
+        <prop oor:name="Color">
+          <value>14212841</value>
+        </prop>
+      </node>
+      <node oor:name="NumberColor">
+        <prop oor:name="Color">
+          <value>11767469</value>
+        </prop>
+      </node>
+      <node oor:name="StringColor">
+        <prop oor:name="Color">
+          <value>9616524</value>
+        </prop>
+      </node>
+      <node oor:name="CommentColor">
+        <prop oor:name="Color">
+          <value>6385288</value>
+        </prop>
+      </node>
+      <node oor:name="ErrorColor">
+        <prop oor:name="Color">
+          <value>12542314</value>
+        </prop>
+      </node>
+      <node oor:name="OperatorColor">
+        <prop oor:name="Color">
+          <value>8495553</value>
+        </prop>
+      </node>
+      <node oor:name="KeywordColor">
+        <prop oor:name="Color">
+          <value>8495553</value>
+        </prop>
+      </node>
+      <node oor:name="BackgroundColor">
+        <prop oor:name="Color">
+          <value>3028032</value>
+        </prop>
+      </node>
+      <node oor:name="LineHighlightColor">
+        <prop oor:name="Color">
+          <value>3883602</value>
+        </prop>
+      </node>
+    </node>
+    <node oor:name="Oblivion" oor:op="replace">
+      <node oor:name="GenericColor">
+        <prop oor:name="Color">
+          <value>13883325</value>
+        </prop>
+      </node>
+      <node oor:name="IdentifierColor">
+        <prop oor:name="Color">
+          <value>13883325</value>
+        </prop>
+      </node>
+      <node oor:name="NumberColor">
+        <prop oor:name="Color">
+          <value>12737536</value>
+        </prop>
+      </node>
+      <node oor:name="StringColor">
+        <prop oor:name="Color">
+          <value>15586304</value>
+        </prop>
+      </node>
+      <node oor:name="CommentColor">
+        <prop oor:name="Color">
+          <value>3186944</value>
+        </prop>
+      </node>
+      <node oor:name="ErrorColor">
+        <prop oor:name="Color">
+          <value>15226951</value>
+        </prop>
+      </node>
+      <node oor:name="OperatorColor">
+        <prop oor:name="Color">
+          <value>15658732</value>
+        </prop>
+      </node>
+      <node oor:name="KeywordColor">
+        <prop oor:name="Color">
+          <value>11370408</value>
+        </prop>
+      </node>
+      <node oor:name="BackgroundColor">
+        <prop oor:name="Color">
+          <value>2105119</value>
+        </prop>
+      </node>
+      <node oor:name="LineHighlightColor">
+        <prop oor:name="Color">
+          <value>3028022</value>
+        </prop>
+      </node>
+    </node>
+    <node oor:name="Radical" oor:op="replace">
+      <node oor:name="GenericColor">
+        <prop oor:name="Color">
+          <value>8166031</value>
+        </prop>
+      </node>
+      <node oor:name="IdentifierColor">
+        <prop oor:name="Color">
+          <value>4488030</value>
+        </prop>
+      </node>
+      <node oor:name="NumberColor">
+        <prop oor:name="Color">
+          <value>13644731</value>
+        </prop>
+      </node>
+      <node oor:name="StringColor">
+        <prop oor:name="Color">
+          <value>11009781</value>
+        </prop>
+      </node>
+      <node oor:name="CommentColor">
+        <prop oor:name="Color">
+          <value>4217150</value>
+        </prop>
+      </node>
+      <node oor:name="ErrorColor">
+        <prop oor:name="Color">
+          <value>13275673</value>
+        </prop>
+      </node>
+      <node oor:name="OperatorColor">
+        <prop oor:name="Color">
+          <value>13972879</value>
+        </prop>
+      </node>
+      <node oor:name="KeywordColor">
+        <prop oor:name="Color">
+          <value>13972879</value>
+        </prop>
+      </node>
+      <node oor:name="BackgroundColor">
+        <prop oor:name="Color">
+          <value>1315618</value>
+        </prop>
+      </node>
+      <node oor:name="LineHighlightColor">
+        <prop oor:name="Color">
+          <value>2299440</value>
+        </prop>
+      </node>
+    </node>
+  </node>
+</oor:component-data>
